@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Version Control | bugerra-rudn</title>
+    <link>https://bugerra-rudn.github.io/en/tags/version-control/</link>
+      <atom:link href="https://bugerra-rudn.github.io/en/tags/version-control/index.xml" rel="self" type="application/rss+xml" />
+    <description>Version Control</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bugerra-rudn.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Version Control</title>
+      <link>https://bugerra-rudn.github.io/en/tags/version-control/</link>
+    </image>
+    
+    <item>
+      <title>Version Control with Git — Why It Matters and How It Works</title>
+      <link>https://bugerra-rudn.github.io/en/publication/01/</link>
+      <pubDate>Tue, 24 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://bugerra-rudn.github.io/en/publication/01/</guid>
+      <description>&lt;h2 id=&#34;-what-is-version-control&#34;&gt;🧭 What Is Version Control?&lt;/h2&gt;
+&lt;p&gt;In programming, any project goes through dozens or even hundreds of changes: new features are added, bugs are fixed, code is refactored. Without proper tracking, it&amp;rsquo;s easy to lose progress or break a working version. This is where a &lt;strong&gt;Version Control System (VCS)&lt;/strong&gt; comes in.&lt;/p&gt;
+&lt;h2 id=&#34;-why-use-git&#34;&gt;🔧 Why Use Git?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Git&lt;/strong&gt; is the most popular and powerful distributed version control system. It allows every developer to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📌 &lt;strong&gt;Track change history&lt;/strong&gt; — see who made changes, when, and what exactly was altered.&lt;/li&gt;
+&lt;li&gt;🧪 &lt;strong&gt;Experiment safely&lt;/strong&gt; — create branches for new ideas without risking the main codebase.&lt;/li&gt;
+&lt;li&gt;🔁 &lt;strong&gt;Revert to previous versions&lt;/strong&gt; — recover any saved state if something goes wrong.&lt;/li&gt;
+&lt;li&gt;👥 &lt;strong&gt;Collaborate in teams&lt;/strong&gt; — multiple developers can work on different parts simultaneously and later merge their changes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-key-git-concepts&#34;&gt;🌳 Key Git Concepts&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Repository&lt;/strong&gt; — the project with its entire history, stored either locally or remotely.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Commit&lt;/strong&gt; — a recorded change in the repository; like a snapshot of the project state.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Branch&lt;/strong&gt; — an independent development path, ideal for working on features in isolation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Merge&lt;/strong&gt; — the act of integrating changes from one branch into another.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conflict&lt;/strong&gt; — when two branches change the same line of code; requires manual resolution.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-how-we-used-git-in-practice&#34;&gt;🚀 How We Used Git in Practice&lt;/h2&gt;
+&lt;p&gt;In our programming course, Git was used for collaborative student projects. It helped us:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💾 Preserve every solution attempt without losing previous versions.&lt;/li&gt;
+&lt;li&gt;🔄 Compare different implementation strategies.&lt;/li&gt;
+&lt;li&gt;🧩 Practice teamwork via pull requests, code reviews, and discussions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-whats-important-to-understand&#34;&gt;🧠 What’s Important to Understand&lt;/h2&gt;
+&lt;p&gt;Git isn’t just a tool — it’s a &lt;strong&gt;way of thinking&lt;/strong&gt;. It teaches you to plan, split tasks, track issues, and experiment confidently.&lt;/p&gt;
+&lt;p&gt;💡 Version control is a core skill for any modern developer. Even in solo projects, Git brings structure, clarity, and long-term sustainability.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;: mastering Git is a step toward professional programming discipline. The sooner you learn it, the easier your development journey will be!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

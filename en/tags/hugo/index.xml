@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo | bugerra-rudn</title>
+    <link>https://bugerra-rudn.github.io/en/tags/hugo/</link>
+      <atom:link href="https://bugerra-rudn.github.io/en/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hugo</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bugerra-rudn.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Hugo</title>
+      <link>https://bugerra-rudn.github.io/en/tags/hugo/</link>
+    </image>
+    
+    <item>
+      <title>A Researcher&#39;s Personal Website with Hugo Academic</title>
+      <link>https://bugerra-rudn.github.io/en/project/hugo/</link>
+      <pubDate>Tue, 24 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://bugerra-rudn.github.io/en/project/hugo/</guid>
+      <description>&lt;h2 id=&#34;-why-do-researchers-need-a-personal-website&#34;&gt;🌐 Why Do Researchers Need a Personal Website?&lt;/h2&gt;
+&lt;p&gt;In today&amp;rsquo;s academic world, it&amp;rsquo;s important not only to conduct research but also to &lt;strong&gt;publicly share the results&lt;/strong&gt;. A personal website is a key tool for maintaining an academic presence online. It helps:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🧑‍🔬 Present your biography, publications, projects, and experience&lt;/li&gt;
+&lt;li&gt;📚 Share materials, presentations, and articles&lt;/li&gt;
+&lt;li&gt;📬 Stay connected with the academic community and potential collaborators&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;One of the most popular ways to build such a site is using the &lt;strong&gt;Hugo&lt;/strong&gt; framework with the &lt;strong&gt;Academic&lt;/strong&gt; theme.&lt;/p&gt;
+&lt;h2 id=&#34;-what-is-hugo-academic&#34;&gt;🛠 What is Hugo Academic?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Hugo&lt;/strong&gt; is a static site generator — it’s incredibly fast, doesn’t require a server backend, and is easy to configure. The &lt;strong&gt;Academic&lt;/strong&gt; theme is designed specifically for scholars, teachers, and students.&lt;/p&gt;
+&lt;h3 id=&#34;advantages-of-hugo-academic&#34;&gt;Advantages of Hugo Academic:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;🧩 Structured template tailored for academic content (bio, courses, projects, publications)&lt;/li&gt;
+&lt;li&gt;🔍 SEO optimization and Google Scholar compatibility&lt;/li&gt;
+&lt;li&gt;🖼 Support for multilingual content, LaTeX, and math formulas&lt;/li&gt;
+&lt;li&gt;💼 Ability to publish CV, portfolio, and meeting calendar&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-how-the-site-is-organized&#34;&gt;🧭 How the Site is Organized&lt;/h2&gt;
+&lt;p&gt;Hugo Academic is structured through YAML files, with each section as a component:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;content/home/&lt;/code&gt; — configures the homepage&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;content/publication/&lt;/code&gt; — list of publications with abstracts, PDFs, and DOIs&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;content/project/&lt;/code&gt; — descriptions of research projects&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;content/post/&lt;/code&gt; — blog or study notes&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;data/&lt;/code&gt; and &lt;code&gt;config/&lt;/code&gt; — theme, profile, language, and contact settings&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-deployment&#34;&gt;📦 Deployment&lt;/h2&gt;
+&lt;p&gt;The site can be hosted on GitHub Pages, Netlify, or any other static hosting platform. All changes are versioned via Git, providing full transparency and control.&lt;/p&gt;
+&lt;h2 id=&#34;-my-experience&#34;&gt;🔍 My Experience&lt;/h2&gt;
+&lt;p&gt;In our coursework, we practiced deploying a Hugo Academic site, editing YAML configurations, adding &amp;ldquo;Education&amp;rdquo; and &amp;ldquo;Interests&amp;rdquo; sections, and writing short posts about our study and project outcomes.&lt;/p&gt;
+&lt;p&gt;This exercise clearly showed how &lt;strong&gt;technical skills integrate with academic self-presentation&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;-why-it-matters&#34;&gt;💡 Why It Matters&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Strengthens academic image&lt;/li&gt;
+&lt;li&gt;Simplifies sharing research outputs with the community&lt;/li&gt;
+&lt;li&gt;Increases visibility of scholarly work&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;: A website built with Hugo Academic is more than a personal page — it’s a professional development tool that unifies research, publications, and academic presence in one place.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

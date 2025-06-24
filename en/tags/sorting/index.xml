@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sorting | bugerra-rudn</title>
+    <link>https://bugerra-rudn.github.io/en/tags/sorting/</link>
+      <atom:link href="https://bugerra-rudn.github.io/en/tags/sorting/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sorting</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bugerra-rudn.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Sorting</title>
+      <link>https://bugerra-rudn.github.io/en/tags/sorting/</link>
+    </image>
+    
+    <item>
+      <title>Sorting Algorithms — Why Understanding Them Matters</title>
+      <link>https://bugerra-rudn.github.io/en/publication/05/</link>
+      <pubDate>Tue, 24 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://bugerra-rudn.github.io/en/publication/05/</guid>
+      <description>&lt;h2 id=&#34;-what-is-sorting&#34;&gt;🔄 What Is Sorting?&lt;/h2&gt;
+&lt;p&gt;Sorting is one of the most fundamental operations in programming. It’s used everywhere — from search engines and databases to charts and UI components. Understanding sorting algorithms helps &lt;strong&gt;boost program efficiency&lt;/strong&gt; and &lt;strong&gt;optimize data handling&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;-why-study-sorting-algorithms&#34;&gt;📊 Why Study Sorting Algorithms?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;📈 They are foundational to many other algorithms (searching, compression, array processing).&lt;/li&gt;
+&lt;li&gt;🔍 Help evaluate algorithm complexity and choose optimal strategies.&lt;/li&gt;
+&lt;li&gt;💡 Enhance thinking and understanding of data structures.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-popular-algorithms&#34;&gt;🧮 Popular Algorithms&lt;/h2&gt;
+&lt;h3 id=&#34;-bubble-sort&#34;&gt;📌 Bubble Sort&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Simple but slow.&lt;/li&gt;
+&lt;li&gt;Useful for learning and understanding the basics of swapping elements.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-quicksort&#34;&gt;📌 QuickSort&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;One of the most efficient algorithms in practice.&lt;/li&gt;
+&lt;li&gt;Based on the &amp;ldquo;divide and conquer&amp;rdquo; principle.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-mergesort&#34;&gt;📌 MergeSort&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Offers guaranteed stability and predictable runtime.&lt;/li&gt;
+&lt;li&gt;Commonly used for handling large datasets.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-heapsort&#34;&gt;📌 HeapSort&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Uses a heap structure.&lt;/li&gt;
+&lt;li&gt;Great when memory efficiency is important.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-how-we-used-it-in-practice&#34;&gt;💻 How We Used It in Practice&lt;/h2&gt;
+&lt;p&gt;In class, we implemented and tested various sorting algorithms. We compared execution times and complexity across arrays of different lengths. It was especially eye-opening when inefficient algorithms (like bubble sort) started to “choke” on large datasets.&lt;/p&gt;
+&lt;p&gt;Visualizing sorting steps helped us better understand the internal logic and differences between methods.&lt;/p&gt;
+&lt;h2 id=&#34;-key-takeaways&#34;&gt;📌 Key Takeaways&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Choosing an algorithm depends on &lt;strong&gt;data size&lt;/strong&gt;, &lt;strong&gt;memory constraints&lt;/strong&gt;, and &lt;strong&gt;need for stability&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;It’s not enough to just call &amp;ldquo;sort()&amp;rdquo; — you should understand &lt;strong&gt;what’s behind the function&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Sorting algorithms are a core topic found in nearly every project.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;: Knowing sorting algorithms is not just part of the academic curriculum — it&amp;rsquo;s a powerful real-world tool. Understanding their principles gives you confidence in writing more reliable and efficient code.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

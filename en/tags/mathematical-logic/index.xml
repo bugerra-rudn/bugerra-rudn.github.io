@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mathematical Logic | bugerra-rudn</title>
+    <link>https://bugerra-rudn.github.io/en/tags/mathematical-logic/</link>
+      <atom:link href="https://bugerra-rudn.github.io/en/tags/mathematical-logic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mathematical Logic</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bugerra-rudn.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Mathematical Logic</title>
+      <link>https://bugerra-rudn.github.io/en/tags/mathematical-logic/</link>
+    </image>
+    
+    <item>
+      <title>Study Week 2 — Mathematical Logic and Theorems</title>
+      <link>https://bugerra-rudn.github.io/en/post/02/</link>
+      <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://bugerra-rudn.github.io/en/post/02/</guid>
+      <description>&lt;p&gt;📘 This week we dived deeper into &lt;strong&gt;mathematical logic&lt;/strong&gt;. We studied normal forms: DNF and CNF. Practiced transforming complex logical expressions and proving their equivalence.&lt;/p&gt;
+&lt;p&gt;🔍 The most engaging part was proving tautologies using truth tables. I feel like I&amp;rsquo;m starting to really &amp;ldquo;get&amp;rdquo; logic now.&lt;/p&gt;
+&lt;p&gt;📝 Started preparing for the upcoming test by working through typical problems.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

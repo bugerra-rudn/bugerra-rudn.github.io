@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Calculus | bugerra-rudn</title>
+    <link>https://bugerra-rudn.github.io/en/tags/calculus/</link>
+      <atom:link href="https://bugerra-rudn.github.io/en/tags/calculus/index.xml" rel="self" type="application/rss+xml" />
+    <description>Calculus</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bugerra-rudn.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Calculus</title>
+      <link>https://bugerra-rudn.github.io/en/tags/calculus/</link>
+    </image>
+    
+    <item>
+      <title>Study Week 3 — Calculus and Derivatives</title>
+      <link>https://bugerra-rudn.github.io/en/post/03/</link>
+      <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://bugerra-rudn.github.io/en/post/03/</guid>
+      <description>&lt;p&gt;📚 &lt;strong&gt;Calculus was the main focus this week&lt;/strong&gt;. In lectures, we covered the properties of limits, differentiability, and the computation of derivatives of complex functions.&lt;/p&gt;
+&lt;p&gt;✍️ Got an assignment to find the derivative of a complex nested function and prove its continuity. Spent nearly the whole evening working through it — I think I’ve figured it out!&lt;/p&gt;
+&lt;p&gt;📆 There’s a test next week. The plan is to review differentiation techniques and practice graph-based problems.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

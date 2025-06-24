@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exams | bugerra-rudn</title>
+    <link>https://bugerra-rudn.github.io/en/tags/exams/</link>
+      <atom:link href="https://bugerra-rudn.github.io/en/tags/exams/index.xml" rel="self" type="application/rss+xml" />
+    <description>Exams</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bugerra-rudn.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Exams</title>
+      <link>https://bugerra-rudn.github.io/en/tags/exams/</link>
+    </image>
+    
+    <item>
+      <title>Study Week 5 — Exam Preparation</title>
+      <link>https://bugerra-rudn.github.io/en/post/05/</link>
+      <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://bugerra-rudn.github.io/en/post/05/</guid>
+      <description>&lt;p&gt;📖 This week was fully dedicated to &lt;strong&gt;exam preparation&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;🔁 Reviewed all programming topics: recursion, loops, working with strings and files. Practiced solving problems from previous years.&lt;/p&gt;
+&lt;p&gt;📐 For calculus, I worked through exercises on series and integrals. Improper integrals were especially challenging — had to revisit lecture notes.&lt;/p&gt;
+&lt;p&gt;🧮 For logic, I&amp;rsquo;m revising using my notes — made flashcards with formulas and typical problems.&lt;/p&gt;
+&lt;p&gt;🔜 Exams are just around the corner. One final week to wrap it all up!&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Study Week 4 — Tests and Oral Exams</title>
+      <link>https://bugerra-rudn.github.io/en/post/04/</link>
+      <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://bugerra-rudn.github.io/en/post/04/</guid>
+      <description>&lt;p&gt;📅 &lt;strong&gt;A very intense week&lt;/strong&gt;: two tests — one in mathematical logic and another in calculus.&lt;/p&gt;
+&lt;p&gt;📌 The logic test involved constructing proofs using rules of logical inference. I made a mistake in one step — a valuable lesson for the future.&lt;/p&gt;
+&lt;p&gt;📈 In calculus, we were asked to prove Rolle&amp;rsquo;s Theorem and solve a few problems on extrema. I think I did fairly well.&lt;/p&gt;
+&lt;p&gt;🧠 Lots of practice — my brain is on fire, but I definitely feel the progress.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Study Week 1 — Programming and the First Test</title>
+      <link>https://bugerra-rudn.github.io/en/post/01/</link>
+      <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://bugerra-rudn.github.io/en/post/01/</guid>
+      <description>&lt;p&gt;📌 &lt;strong&gt;The week began with intensive preparation for the programming test&lt;/strong&gt;. During practice sessions, we solved problems on recursion and array manipulation. One particularly interesting task involved building Pascal&amp;rsquo;s Triangle using two-dimensional vectors.&lt;/p&gt;
+&lt;p&gt;✅ On Friday, I successfully passed my first programming test. It was a bit nerve-racking, but the tasks turned out to be familiar. I&amp;rsquo;m glad it went well!&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

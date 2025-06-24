@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Study | bugerra-rudn</title>
+    <link>https://bugerra-rudn.github.io/en/tags/study/</link>
+      <atom:link href="https://bugerra-rudn.github.io/en/tags/study/index.xml" rel="self" type="application/rss+xml" />
+    <description>Study</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bugerra-rudn.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Study</title>
+      <link>https://bugerra-rudn.github.io/en/tags/study/</link>
+    </image>
+    
+    <item>
+      <title>A Researcher&#39;s Personal Website with Hugo Academic</title>
+      <link>https://bugerra-rudn.github.io/en/project/hugo/</link>
+      <pubDate>Tue, 24 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://bugerra-rudn.github.io/en/project/hugo/</guid>
+      <description>&lt;h2 id=&#34;-why-do-researchers-need-a-personal-website&#34;&gt;🌐 Why Do Researchers Need a Personal Website?&lt;/h2&gt;
+&lt;p&gt;In today&amp;rsquo;s academic world, it&amp;rsquo;s important not only to conduct research but also to &lt;strong&gt;publicly share the results&lt;/strong&gt;. A personal website is a key tool for maintaining an academic presence online. It helps:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🧑‍🔬 Present your biography, publications, projects, and experience&lt;/li&gt;
+&lt;li&gt;📚 Share materials, presentations, and articles&lt;/li&gt;
+&lt;li&gt;📬 Stay connected with the academic community and potential collaborators&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;One of the most popular ways to build such a site is using the &lt;strong&gt;Hugo&lt;/strong&gt; framework with the &lt;strong&gt;Academic&lt;/strong&gt; theme.&lt;/p&gt;
+&lt;h2 id=&#34;-what-is-hugo-academic&#34;&gt;🛠 What is Hugo Academic?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Hugo&lt;/strong&gt; is a static site generator — it’s incredibly fast, doesn’t require a server backend, and is easy to configure. The &lt;strong&gt;Academic&lt;/strong&gt; theme is designed specifically for scholars, teachers, and students.&lt;/p&gt;
+&lt;h3 id=&#34;advantages-of-hugo-academic&#34;&gt;Advantages of Hugo Academic:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;🧩 Structured template tailored for academic content (bio, courses, projects, publications)&lt;/li&gt;
+&lt;li&gt;🔍 SEO optimization and Google Scholar compatibility&lt;/li&gt;
+&lt;li&gt;🖼 Support for multilingual content, LaTeX, and math formulas&lt;/li&gt;
+&lt;li&gt;💼 Ability to publish CV, portfolio, and meeting calendar&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-how-the-site-is-organized&#34;&gt;🧭 How the Site is Organized&lt;/h2&gt;
+&lt;p&gt;Hugo Academic is structured through YAML files, with each section as a component:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;content/home/&lt;/code&gt; — configures the homepage&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;content/publication/&lt;/code&gt; — list of publications with abstracts, PDFs, and DOIs&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;content/project/&lt;/code&gt; — descriptions of research projects&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;content/post/&lt;/code&gt; — blog or study notes&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;data/&lt;/code&gt; and &lt;code&gt;config/&lt;/code&gt; — theme, profile, language, and contact settings&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-deployment&#34;&gt;📦 Deployment&lt;/h2&gt;
+&lt;p&gt;The site can be hosted on GitHub Pages, Netlify, or any other static hosting platform. All changes are versioned via Git, providing full transparency and control.&lt;/p&gt;
+&lt;h2 id=&#34;-my-experience&#34;&gt;🔍 My Experience&lt;/h2&gt;
+&lt;p&gt;In our coursework, we practiced deploying a Hugo Academic site, editing YAML configurations, adding &amp;ldquo;Education&amp;rdquo; and &amp;ldquo;Interests&amp;rdquo; sections, and writing short posts about our study and project outcomes.&lt;/p&gt;
+&lt;p&gt;This exercise clearly showed how &lt;strong&gt;technical skills integrate with academic self-presentation&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;-why-it-matters&#34;&gt;💡 Why It Matters&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Strengthens academic image&lt;/li&gt;
+&lt;li&gt;Simplifies sharing research outputs with the community&lt;/li&gt;
+&lt;li&gt;Increases visibility of scholarly work&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;: A website built with Hugo Academic is more than a personal page — it’s a professional development tool that unifies research, publications, and academic presence in one place.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Creating Presentations — How to Convey Ideas Clearly and Effectively</title>
+      <link>https://bugerra-rudn.github.io/en/publication/03/</link>
+      <pubDate>Tue, 24 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://bugerra-rudn.github.io/en/publication/03/</guid>
+      <description>&lt;h2 id=&#34;-why-are-presentations-important&#34;&gt;📊 Why Are Presentations Important?&lt;/h2&gt;
+&lt;p&gt;Presentations are a way to &lt;strong&gt;visually and logically present information&lt;/strong&gt;. In academic settings, they’re used for project defenses, lab reports, scientific talks, and group work. A well-designed presentation helps:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🎯 Focus the audience’s attention on key ideas&lt;/li&gt;
+&lt;li&gt;💬 Support the speaker with visual material&lt;/li&gt;
+&lt;li&gt;🔍 Structure the content and make it more understandable&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-core-elements-of-a-presentation&#34;&gt;🧱 Core Elements of a Presentation&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Title Slide&lt;/strong&gt; — topic, name, date&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Relevance and Goal&lt;/strong&gt; — why this topic matters&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Methods and Process&lt;/strong&gt; — how the research or project was carried out&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Results&lt;/strong&gt; — data, charts, tables&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conclusions&lt;/strong&gt; — what was learned and achieved&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bonus&lt;/strong&gt;: questions, future work, acknowledgements&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;-visual-style&#34;&gt;🎨 Visual Style&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Minimalism&lt;/strong&gt; — less text, more structure&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Color scheme&lt;/strong&gt; — 2–3 matching colors&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fonts&lt;/strong&gt; — readable, no more than two types&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Images and icons&lt;/strong&gt; — only if they clarify the content&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A good presentation isn’t a wall of text — it’s a &lt;strong&gt;visual prompt for storytelling&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;-tools-we-use&#34;&gt;🛠 Tools We Use&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Google Slides&lt;/strong&gt; — great for collaboration&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Canva&lt;/strong&gt; — ready-made templates and beautiful design&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Microsoft PowerPoint&lt;/strong&gt; — the classic with advanced features&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LibreOffice Impress&lt;/strong&gt; — free offline alternative&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-personal-experience&#34;&gt;🧠 Personal Experience&lt;/h2&gt;
+&lt;p&gt;Throughout the semester, I created presentations for programming, calculus, and logic. The hardest part was staying within the slide limit while preserving structure and meaning.&lt;/p&gt;
+&lt;p&gt;💡 What worked best: “one idea — one slide.” This format helped both the audience and me as the speaker.&lt;/p&gt;
+&lt;h2 id=&#34;-tips&#34;&gt;📌 Tips&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Practice your speech — slides don’t speak on their own&lt;/li&gt;
+&lt;li&gt;Don’t read from the slide — speak naturally, use it as a guide&lt;/li&gt;
+&lt;li&gt;Keep a consistent style across all elements&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;: a presentation is more than just slides — it’s a communication tool. The ability to create a good one is a skill that benefits both your academic path and your future career.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lightweight Markup Languages — Simple Text Structuring Explained</title>
+      <link>https://bugerra-rudn.github.io/en/publication/02/</link>
+      <pubDate>Tue, 24 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://bugerra-rudn.github.io/en/publication/02/</guid>
+      <description>&lt;h2 id=&#34;-what-is-a-markup-language&#34;&gt;📄 What Is a Markup Language?&lt;/h2&gt;
+&lt;p&gt;A &lt;strong&gt;markup language&lt;/strong&gt; is a way to describe the structure and formatting of text by adding special characters that do not interfere with readability. Unlike heavy and verbose languages like HTML or XML, &lt;strong&gt;lightweight markup languages&lt;/strong&gt; are designed to be as simple and intuitive as possible, even without prior experience.&lt;/p&gt;
+&lt;h2 id=&#34;-why-use-them&#34;&gt;⚙️ Why Use Them?&lt;/h2&gt;
+&lt;p&gt;Lightweight markup languages allow you to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;✏️ Quickly format text: headings, lists, tables, highlights&lt;/li&gt;
+&lt;li&gt;🧾 Write documentation, notes, blogs, reports, and README files&lt;/li&gt;
+&lt;li&gt;🔄 Convert the same plain-text file into HTML, PDF, and other formats&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Their biggest advantages are &lt;strong&gt;simplicity and readability&lt;/strong&gt; — even the raw text remains easy to understand without rendering.&lt;/p&gt;
+&lt;h2 id=&#34;-most-popular-lightweight-markup-languages&#34;&gt;🌟 Most Popular Lightweight Markup Languages&lt;/h2&gt;
+&lt;h3 id=&#34;-markdown&#34;&gt;🔹 Markdown&lt;/h3&gt;
+&lt;p&gt;One of the most widely used. Supported almost everywhere — from GitHub and Notion to Telegram.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Simple syntax (asterisks for lists, hashtags for headings)&lt;/li&gt;
+&lt;li&gt;Ideal for README files, documentation, and blogging&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-restructuredtext-rest&#34;&gt;🔹 reStructuredText (reST)&lt;/h3&gt;
+&lt;p&gt;Common in Python projects, especially with the Sphinx documentation tool.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Slightly more complex than Markdown&lt;/li&gt;
+&lt;li&gt;Great for structured content and cross-referencing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-asciidoc&#34;&gt;🔹 AsciiDoc&lt;/h3&gt;
+&lt;p&gt;A powerful yet compact language used when a balance of simplicity and capability is needed.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Supports diagrams, tables, code blocks, embedded attributes&lt;/li&gt;
+&lt;li&gt;Suitable for technical manuals and books&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-how-we-used-them&#34;&gt;🧠 How We Used Them&lt;/h2&gt;
+&lt;p&gt;In our programming classes, Markdown was used to format reports and project documentation. It helped structure content quickly and make it ready for version-controlled platforms.&lt;/p&gt;
+&lt;p&gt;We also explored reStructuredText with documentation generators, giving us insight into how major open-source projects manage wikis and manuals.&lt;/p&gt;
+&lt;h2 id=&#34;-key-takeaways&#34;&gt;📌 Key Takeaways&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;✅ Markdown is the go-to choice for most general needs&lt;/li&gt;
+&lt;li&gt;🔍 reST and AsciiDoc shine when more control and automation are required&lt;/li&gt;
+&lt;li&gt;🧩 All markup languages can be easily converted to other formats&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;: Knowing at least one lightweight markup language is a must-have skill for every developer, student, or researcher. It speeds up your work, enhances clarity, and ensures long-term reusability.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scientific Programming Languages — Tools for Computation and Analysis</title>
+      <link>https://bugerra-rudn.github.io/en/publication/04/</link>
+      <pubDate>Tue, 24 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://bugerra-rudn.github.io/en/publication/04/</guid>
+      <description>&lt;h2 id=&#34;-what-is-scientific-programming&#34;&gt;🔬 What Is Scientific Programming?&lt;/h2&gt;
+&lt;p&gt;Scientific programming involves using code to solve problems related to mathematical modeling, data processing, simulations, visualization, and numerical methods. It requires &lt;strong&gt;computational accuracy&lt;/strong&gt;, &lt;strong&gt;algorithmic efficiency&lt;/strong&gt;, and &lt;strong&gt;convenient result analysis&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;That&amp;rsquo;s why this field relies on languages and tools specifically designed for scientific tasks.&lt;/p&gt;
+&lt;h2 id=&#34;-popular-scientific-programming-languages&#34;&gt;🧮 Popular Scientific Programming Languages&lt;/h2&gt;
+&lt;h3 id=&#34;-python&#34;&gt;🐍 Python&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The most widely used general-purpose language in science.&lt;/li&gt;
+&lt;li&gt;Rich ecosystem: NumPy, SciPy, Matplotlib, Pandas, TensorFlow.&lt;/li&gt;
+&lt;li&gt;Easy to learn, great for data analysis, machine learning, and modeling.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-matlab&#34;&gt;📊 MATLAB&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;A specialized environment for numerical computing and visualization.&lt;/li&gt;
+&lt;li&gt;Especially popular among engineers and physicists.&lt;/li&gt;
+&lt;li&gt;Excellent for plotting, solving equations, and matrix operations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-r&#34;&gt;📐 R&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The go-to language for statisticians and data analysts.&lt;/li&gt;
+&lt;li&gt;Strong in data visualization (ggplot2), statistical modeling, and array processing.&lt;/li&gt;
+&lt;li&gt;Common in bioinformatics and social sciences.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-cc&#34;&gt;🔧 C/C++&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Used where &lt;strong&gt;speed and precision&lt;/strong&gt; are critical.&lt;/li&gt;
+&lt;li&gt;Ideal for developing numerical libraries, simulators, and physics engines.&lt;/li&gt;
+&lt;li&gt;More complex, but offers complete control over the process.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-julia&#34;&gt;🧠 Julia&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;A relatively new language built specifically for scientific computing.&lt;/li&gt;
+&lt;li&gt;As fast as C++, with syntax similar to Python.&lt;/li&gt;
+&lt;li&gt;Rapidly gaining popularity in math, statistics, and machine learning.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-how-we-used-these-in-class&#34;&gt;💡 How We Used These in Class&lt;/h2&gt;
+&lt;p&gt;In programming and mathematics courses, Python was actively used for:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Solving systems of equations&lt;/li&gt;
+&lt;li&gt;Plotting function graphs&lt;/li&gt;
+&lt;li&gt;Writing simple simulators and algorithms&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We also used MATLAB for visual analysis of numerical solutions and checking analytical results.&lt;/p&gt;
+&lt;h2 id=&#34;-key-takeaways&#34;&gt;📌 Key Takeaways&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;In scientific programming, &lt;strong&gt;fitness for purpose matters more than trends&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Knowing Python as a foundation is useful, but knowing when to use MATLAB, R, or C++ is essential.&lt;/li&gt;
+&lt;li&gt;Mastery of scientific libraries and numerical methods is key to meaningful results.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;: scientific programming languages bridge theory and practice. Mastering even one opens the door to deep analysis and solving real-world scientific problems.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sorting Algorithms — Why Understanding Them Matters</title>
+      <link>https://bugerra-rudn.github.io/en/publication/05/</link>
+      <pubDate>Tue, 24 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://bugerra-rudn.github.io/en/publication/05/</guid>
+      <description>&lt;h2 id=&#34;-what-is-sorting&#34;&gt;🔄 What Is Sorting?&lt;/h2&gt;
+&lt;p&gt;Sorting is one of the most fundamental operations in programming. It’s used everywhere — from search engines and databases to charts and UI components. Understanding sorting algorithms helps &lt;strong&gt;boost program efficiency&lt;/strong&gt; and &lt;strong&gt;optimize data handling&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;-why-study-sorting-algorithms&#34;&gt;📊 Why Study Sorting Algorithms?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;📈 They are foundational to many other algorithms (searching, compression, array processing).&lt;/li&gt;
+&lt;li&gt;🔍 Help evaluate algorithm complexity and choose optimal strategies.&lt;/li&gt;
+&lt;li&gt;💡 Enhance thinking and understanding of data structures.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-popular-algorithms&#34;&gt;🧮 Popular Algorithms&lt;/h2&gt;
+&lt;h3 id=&#34;-bubble-sort&#34;&gt;📌 Bubble Sort&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Simple but slow.&lt;/li&gt;
+&lt;li&gt;Useful for learning and understanding the basics of swapping elements.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-quicksort&#34;&gt;📌 QuickSort&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;One of the most efficient algorithms in practice.&lt;/li&gt;
+&lt;li&gt;Based on the &amp;ldquo;divide and conquer&amp;rdquo; principle.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-mergesort&#34;&gt;📌 MergeSort&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Offers guaranteed stability and predictable runtime.&lt;/li&gt;
+&lt;li&gt;Commonly used for handling large datasets.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-heapsort&#34;&gt;📌 HeapSort&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Uses a heap structure.&lt;/li&gt;
+&lt;li&gt;Great when memory efficiency is important.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-how-we-used-it-in-practice&#34;&gt;💻 How We Used It in Practice&lt;/h2&gt;
+&lt;p&gt;In class, we implemented and tested various sorting algorithms. We compared execution times and complexity across arrays of different lengths. It was especially eye-opening when inefficient algorithms (like bubble sort) started to “choke” on large datasets.&lt;/p&gt;
+&lt;p&gt;Visualizing sorting steps helped us better understand the internal logic and differences between methods.&lt;/p&gt;
+&lt;h2 id=&#34;-key-takeaways&#34;&gt;📌 Key Takeaways&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Choosing an algorithm depends on &lt;strong&gt;data size&lt;/strong&gt;, &lt;strong&gt;memory constraints&lt;/strong&gt;, and &lt;strong&gt;need for stability&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;It’s not enough to just call &amp;ldquo;sort()&amp;rdquo; — you should understand &lt;strong&gt;what’s behind the function&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Sorting algorithms are a core topic found in nearly every project.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;: Knowing sorting algorithms is not just part of the academic curriculum — it&amp;rsquo;s a powerful real-world tool. Understanding their principles gives you confidence in writing more reliable and efficient code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Version Control with Git — Why It Matters and How It Works</title>
+      <link>https://bugerra-rudn.github.io/en/publication/01/</link>
+      <pubDate>Tue, 24 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://bugerra-rudn.github.io/en/publication/01/</guid>
+      <description>&lt;h2 id=&#34;-what-is-version-control&#34;&gt;🧭 What Is Version Control?&lt;/h2&gt;
+&lt;p&gt;In programming, any project goes through dozens or even hundreds of changes: new features are added, bugs are fixed, code is refactored. Without proper tracking, it&amp;rsquo;s easy to lose progress or break a working version. This is where a &lt;strong&gt;Version Control System (VCS)&lt;/strong&gt; comes in.&lt;/p&gt;
+&lt;h2 id=&#34;-why-use-git&#34;&gt;🔧 Why Use Git?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Git&lt;/strong&gt; is the most popular and powerful distributed version control system. It allows every developer to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📌 &lt;strong&gt;Track change history&lt;/strong&gt; — see who made changes, when, and what exactly was altered.&lt;/li&gt;
+&lt;li&gt;🧪 &lt;strong&gt;Experiment safely&lt;/strong&gt; — create branches for new ideas without risking the main codebase.&lt;/li&gt;
+&lt;li&gt;🔁 &lt;strong&gt;Revert to previous versions&lt;/strong&gt; — recover any saved state if something goes wrong.&lt;/li&gt;
+&lt;li&gt;👥 &lt;strong&gt;Collaborate in teams&lt;/strong&gt; — multiple developers can work on different parts simultaneously and later merge their changes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-key-git-concepts&#34;&gt;🌳 Key Git Concepts&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Repository&lt;/strong&gt; — the project with its entire history, stored either locally or remotely.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Commit&lt;/strong&gt; — a recorded change in the repository; like a snapshot of the project state.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Branch&lt;/strong&gt; — an independent development path, ideal for working on features in isolation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Merge&lt;/strong&gt; — the act of integrating changes from one branch into another.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conflict&lt;/strong&gt; — when two branches change the same line of code; requires manual resolution.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-how-we-used-git-in-practice&#34;&gt;🚀 How We Used Git in Practice&lt;/h2&gt;
+&lt;p&gt;In our programming course, Git was used for collaborative student projects. It helped us:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💾 Preserve every solution attempt without losing previous versions.&lt;/li&gt;
+&lt;li&gt;🔄 Compare different implementation strategies.&lt;/li&gt;
+&lt;li&gt;🧩 Practice teamwork via pull requests, code reviews, and discussions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-whats-important-to-understand&#34;&gt;🧠 What’s Important to Understand&lt;/h2&gt;
+&lt;p&gt;Git isn’t just a tool — it’s a &lt;strong&gt;way of thinking&lt;/strong&gt;. It teaches you to plan, split tasks, track issues, and experiment confidently.&lt;/p&gt;
+&lt;p&gt;💡 Version control is a core skill for any modern developer. Even in solo projects, Git brings structure, clarity, and long-term sustainability.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;: mastering Git is a step toward professional programming discipline. The sooner you learn it, the easier your development journey will be!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Study Week 5 — Exam Preparation</title>
+      <link>https://bugerra-rudn.github.io/en/post/05/</link>
+      <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://bugerra-rudn.github.io/en/post/05/</guid>
+      <description>&lt;p&gt;📖 This week was fully dedicated to &lt;strong&gt;exam preparation&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;🔁 Reviewed all programming topics: recursion, loops, working with strings and files. Practiced solving problems from previous years.&lt;/p&gt;
+&lt;p&gt;📐 For calculus, I worked through exercises on series and integrals. Improper integrals were especially challenging — had to revisit lecture notes.&lt;/p&gt;
+&lt;p&gt;🧮 For logic, I&amp;rsquo;m revising using my notes — made flashcards with formulas and typical problems.&lt;/p&gt;
+&lt;p&gt;🔜 Exams are just around the corner. One final week to wrap it all up!&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Study Week 4 — Tests and Oral Exams</title>
+      <link>https://bugerra-rudn.github.io/en/post/04/</link>
+      <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://bugerra-rudn.github.io/en/post/04/</guid>
+      <description>&lt;p&gt;📅 &lt;strong&gt;A very intense week&lt;/strong&gt;: two tests — one in mathematical logic and another in calculus.&lt;/p&gt;
+&lt;p&gt;📌 The logic test involved constructing proofs using rules of logical inference. I made a mistake in one step — a valuable lesson for the future.&lt;/p&gt;
+&lt;p&gt;📈 In calculus, we were asked to prove Rolle&amp;rsquo;s Theorem and solve a few problems on extrema. I think I did fairly well.&lt;/p&gt;
+&lt;p&gt;🧠 Lots of practice — my brain is on fire, but I definitely feel the progress.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Study Week 3 — Calculus and Derivatives</title>
+      <link>https://bugerra-rudn.github.io/en/post/03/</link>
+      <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://bugerra-rudn.github.io/en/post/03/</guid>
+      <description>&lt;p&gt;📚 &lt;strong&gt;Calculus was the main focus this week&lt;/strong&gt;. In lectures, we covered the properties of limits, differentiability, and the computation of derivatives of complex functions.&lt;/p&gt;
+&lt;p&gt;✍️ Got an assignment to find the derivative of a complex nested function and prove its continuity. Spent nearly the whole evening working through it — I think I’ve figured it out!&lt;/p&gt;
+&lt;p&gt;📆 There’s a test next week. The plan is to review differentiation techniques and practice graph-based problems.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Study Week 2 — Mathematical Logic and Theorems</title>
+      <link>https://bugerra-rudn.github.io/en/post/02/</link>
+      <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://bugerra-rudn.github.io/en/post/02/</guid>
+      <description>&lt;p&gt;📘 This week we dived deeper into &lt;strong&gt;mathematical logic&lt;/strong&gt;. We studied normal forms: DNF and CNF. Practiced transforming complex logical expressions and proving their equivalence.&lt;/p&gt;
+&lt;p&gt;🔍 The most engaging part was proving tautologies using truth tables. I feel like I&amp;rsquo;m starting to really &amp;ldquo;get&amp;rdquo; logic now.&lt;/p&gt;
+&lt;p&gt;📝 Started preparing for the upcoming test by working through typical problems.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Study Week 1 — Programming and the First Test</title>
+      <link>https://bugerra-rudn.github.io/en/post/01/</link>
+      <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://bugerra-rudn.github.io/en/post/01/</guid>
+      <description>&lt;p&gt;📌 &lt;strong&gt;The week began with intensive preparation for the programming test&lt;/strong&gt;. During practice sessions, we solved problems on recursion and array manipulation. One particularly interesting task involved building Pascal&amp;rsquo;s Triangle using two-dimensional vectors.&lt;/p&gt;
+&lt;p&gt;✅ On Friday, I successfully passed my first programming test. It was a bit nerve-racking, but the tasks turned out to be familiar. I&amp;rsquo;m glad it went well!&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
